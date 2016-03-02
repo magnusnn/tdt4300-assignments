@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="apriori">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/apriori.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/apriori.jar!/" />
+    </SOURCES>
+  </library>
+</component>
